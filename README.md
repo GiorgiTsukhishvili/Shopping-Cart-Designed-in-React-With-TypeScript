@@ -13,3 +13,8 @@ Package.json is also provided.
 
 - React Router
 - React Icons
+
+## Images
+
+![1](https://user-images.githubusercontent.com/104715456/184530546-7fc48a2e-cbdc-444a-8a92-3e25f5022744.PNG)
+![2](https://user-images.githubusercontent.com/104715456/184530551-a3dd9610-e7d6-45e7-a7f9-bffcc10ff92b.PNG)
