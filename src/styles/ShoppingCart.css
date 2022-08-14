@@ -1,0 +1,32 @@
+.shopping-cart {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: white;
+  width: 480px;
+  height: 110%;
+  display: inline;
+  box-shadow: -1px 0px 30px rgba(0, 0, 0, 0.462);
+}
+
+.shoppitng-cart-hidden {
+  display: none;
+}
+
+.shopping-cart-top {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.shopping-cart-top button {
+  border: none;
+  background-color: white;
+  font-weight: 700;
+  font-size: 150%;
+  cursor: pointer;
+}
+
+.shopping-cart-items {
+  margin: 20px;
+}

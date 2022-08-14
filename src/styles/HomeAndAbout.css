@@ -1,0 +1,12 @@
+.home-about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 93vh;
+}
+
+.home-about h1 {
+  width: 700px;
+  text-align: center;
+  line-height: 2;
+}
